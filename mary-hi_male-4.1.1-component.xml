@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marytts-install xmlns="http://mary.dfki.de/installer">
+    <voice gender="male" locale="hi" name="hi_male" type="unit selection" version="4.1.1">
+        <description></description>
+        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
+        <package filename="mary-hi_male-4.1.1.zip"
+            md5sum="076e064846a140f81f0c77291a91331c" size="20684889">
+            <location href="file:///home/arpit/Desktop/TTS/MARYTTS/download"/>
+        </package>
+        <depends language="hi" version="4.1.1"/>
+    </voice>
+</marytts-install>
